@@ -8,7 +8,7 @@
 
 <br>
 <!-- Displaying the stats and images in the center -->
-<div align="center">
+<div align="center" height="300" width="650">
   <!-- GitHub language stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidar394&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"  height="150"/>
   <!-- GitHub streak stats -->
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -70,8 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
 </div>
 
 <br>
