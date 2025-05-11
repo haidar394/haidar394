@@ -76,9 +76,10 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yawwnann&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=1&column=9" />
-</p>
-<p align="center">
-  <img src="github-user-contribution (2).svg"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haidar394/haidar394/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haidar394/haidar394/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/haidar394/haidar394/output/pacman-contribution-graph.svg">
+</picture>
+
+###
