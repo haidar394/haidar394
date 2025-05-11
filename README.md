@@ -8,7 +8,7 @@
 
 <br>
 <!-- Displaying the stats and images in the center -->
-<div align="center" height="300" width="650">
+<div align="center">
   <!-- GitHub language stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haidar394&layout=compact&hide_border=false&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"  height="150"/>
   <!-- GitHub streak stats -->
@@ -19,6 +19,9 @@
 <br>
 
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Techs+I'll+Learn;" alt="Typing SVG" /></a>
+
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
